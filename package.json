@@ -1,0 +1,23 @@
+{
+  "name": "sasa_web_chat",
+  "version": "1.0.0",
+  "description": "The Random Web Chatting Service for SASA Students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CookieBean/SASA_Web_Chatting.git"
+  },
+  "author": "CookieBean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CookieBean/SASA_Web_Chatting/issues"
+  },
+  "homepage": "https://github.com/CookieBean/SASA_Web_Chatting#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
